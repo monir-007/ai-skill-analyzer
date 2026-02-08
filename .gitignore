@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Environment variables
+.env
